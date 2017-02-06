@@ -1,0 +1,103 @@
+{
+  "repairTypes": [
+    {
+      "caption": "维修类型",
+      "category": "DCS",
+      "id": 1023,
+      "isBuiltIn": true,
+      "key": 1,
+      "name": "Repair_Tpye",
+      "rowVersion": null,
+      "status": 1,
+      "value": "普通维修"
+    },
+    {
+      "caption": "维修类型",
+      "category": "DCS",
+      "id": 1024,
+      "isBuiltIn": true,
+      "key": 2,
+      "name": "Repair_Tpye",
+      "rowVersion": null,
+      "status": 1,
+      "value": "外出服务"
+    },
+    {
+      "caption": "维修类型",
+      "category": "DCS",
+      "id": 1025,
+      "isBuiltIn": true,
+      "key": 3,
+      "name": "Repair_Tpye",
+      "rowVersion": null,
+      "status": 1,
+      "value": "强制保养"
+    },
+    {
+      "caption": "维修类型",
+      "category": "DCS",
+      "id": 1026,
+      "isBuiltIn": true,
+      "key": 4,
+      "name": "Repair_Tpye",
+      "rowVersion": null,
+      "status": 1,
+      "value": "普通保养"
+    },
+    {
+      "caption": "维修类型",
+      "category": "DCS",
+      "id": 1027,
+      "isBuiltIn": true,
+      "key": 5,
+      "name": "Repair_Tpye",
+      "rowVersion": null,
+      "status": 1,
+      "value": "商品车维修"
+    },
+    {
+      "caption": "维修类型",
+      "category": "DCS",
+      "id": 1028,
+      "isBuiltIn": true,
+      "key": 6,
+      "name": "Repair_Tpye",
+      "rowVersion": null,
+      "status": 1,
+      "value": "事故维修"
+    },
+    {
+      "caption": "维修类型",
+      "category": "DCS",
+      "id": 1029,
+      "isBuiltIn": true,
+      "key": 7,
+      "name": "Repair_Tpye",
+      "rowVersion": null,
+      "status": 1,
+      "value": "服务活动"
+    },
+    {
+      "caption": "维修类型",
+      "category": "DCS",
+      "id": 1030,
+      "isBuiltIn": true,
+      "key": 8,
+      "name": "Repair_Tpye",
+      "rowVersion": null,
+      "status": 1,
+      "value": "商品车保养"
+    },
+    {
+      "caption": "维修类型",
+      "category": "DCS",
+      "id": 1031,
+      "isBuiltIn": true,
+      "key": 15,
+      "name": "Repair_Tpye",
+      "rowVersion": null,
+      "status": 1,
+      "value": "让度服务"
+    }
+  ]
+}

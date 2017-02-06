@@ -1,0 +1,26 @@
+[{
+  "Id": "1",
+  "Code": "REPFT003882201407260002",
+  "status": "1",
+  "CustomerName": "魏子哲",
+  "CellNumber": "18032865239",
+  "RepairType": "普通维修",
+  "VehicleLicensePlate": "冀A190G2",
+  "Vin": "LVBV3JBB1DJ058462",
+  "PartsSalesCategoryId": "奥铃",
+  "CreatorName": "FT003882",
+  "CreateTime": "2014-07-26 16:37:15"
+},
+{
+  "Id": "1",
+  "Code": "REPFT003882201407260001",
+  "status": "2",
+  "CustomerName": "高兴成",
+  "CellNumber": "15055257006",
+  "RepairType": "普通维修",
+  "VehicleLicensePlate": "沪D85470",
+  "Vin": "LVBV4JBBXEJ005872",
+  "PartsSalesCategoryId": "欧马可",
+  "CreatorName": "FT003882",
+  "CreateTime": "2014-07-26 16:37:15"
+}]
